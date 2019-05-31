@@ -44,14 +44,14 @@ business application scenario.
 | TAN YAO TAI TEERAPONG | A0073460L | Develop python scripts to datamine/clean up data for General FAQ Intents (Course Details and Descriptions (GetCourseDetails), Course Fees (GetCourseFees), available Fundings/Sponsorships (GetFundingDetails), Teaching Staff details (GetTeachingStaff)), Develop General FAQ Intents in DialogFlow, Develop script template and general logic flow app.py, Develop python logic flow for General FAQ Intents for app.py, Project report writeup. Technical Discussion (General FAQ Intent), Improvements and Future Enhancements | e0384248@u.nus.edu |
 
 # SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-(https://drive.google.com/open?id=1qVc9PXHOJkfxM1t9VebmxylgqBjmvZ3V)
+https://drive.google.com/open?id=1qVc9PXHOJkfxM1t9VebmxylgqBjmvZ3V
 
 # SECTION 5 : USER GUIDE
 https://github.com/hermannlim/IRS-CS-2019-01-19-IS1PT-GRP-Group10chatbot-/blob/master/User_Guide_ISSChatbot.docx
 
 # SECTION 6 : PROJECT REPORT / PAPER
-<Github File Link>  https://github.com/hermannlim/IRS-CS-2019-01-19-IS1PT-GRP-Group10chatbot-/blob/master/Report.docx
+https://github.com/hermannlim/IRS-CS-2019-01-19-IS1PT-GRP-Group10chatbot-/blob/master/Report.docx
   
 # SECTION 7 : MISCELLANEOUS
-Dialogflow web interface of chatbot: https://bot.dialogflow.com/a91e2c9b-0ecc-46b7-a449-6b8bfbe9b01f
+Dialogflow web interface: https://bot.dialogflow.com/a91e2c9b-0ecc-46b7-a449-6b8bfbe9b01f
 
